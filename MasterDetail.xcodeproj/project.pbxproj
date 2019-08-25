@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E72DBD1723125F5900193119 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72DBD1623125F5900193119 /* Model.swift */; };
+		E72DBD19231261C100193119 /* Presenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72DBD18231261C100193119 /* Presenter.swift */; };
 		E7C4894C231255E700652BA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C4894B231255E700652BA1 /* AppDelegate.swift */; };
 		E7C4894E231255E700652BA1 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C4894D231255E700652BA1 /* MasterViewController.swift */; };
 		E7C48950231255E700652BA1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C4894F231255E700652BA1 /* DetailViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		E72DBD1623125F5900193119 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		E72DBD18231261C100193119 /* Presenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Presenter.swift; sourceTree = "<group>"; };
 		E7C48948231255E700652BA1 /* MasterDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasterDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7C4894B231255E700652BA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7C4894D231255E700652BA1 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				E7C48956231255E800652BA1 /* LaunchScreen.storyboard */,
 				E7C48959231255E800652BA1 /* Info.plist */,
 				E72DBD1623125F5900193119 /* Model.swift */,
+				E72DBD18231261C100193119 /* Presenter.swift */,
 			);
 			path = MasterDetail;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				E7C4894E231255E700652BA1 /* MasterViewController.swift in Sources */,
 				E7C4894C231255E700652BA1 /* AppDelegate.swift in Sources */,
 				E72DBD1723125F5900193119 /* Model.swift in Sources */,
+				E72DBD19231261C100193119 /* Presenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
